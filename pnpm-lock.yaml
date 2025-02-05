@@ -843,3 +843,5 @@ snapshots:
   web-streams-polyfill@3.3.3: {}
 
   ws@8.18.0: {}
+pnpm i
+pnpm start
